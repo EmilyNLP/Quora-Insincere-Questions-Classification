@@ -303,7 +303,7 @@ class Attention(Layer):
         self.features_dim = 0
         super(Attention, self).__init__(**kwargs)
     
-    def build(self, input_shape):
+    def (self, input_shape):
         assert len(input_shape) == 3
 
         self.W = self.add_weight((input_shape[-1],),
@@ -367,7 +367,7 @@ Image("../input/picture/NN.png")
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 

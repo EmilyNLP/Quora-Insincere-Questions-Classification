@@ -114,7 +114,7 @@ plt.hist(train_df.target)
 
 
     
-![png](output_4_1.png)
+![png](images/output_4_1.png)
     
 
 
@@ -178,7 +178,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](images/output_11_0.png)
     
 
 
@@ -600,7 +600,7 @@ plt.hist(pred_test)
 
 
     
-![png](output_31_1.png)
+![png](images/output_31_1.png)
     
 
 
